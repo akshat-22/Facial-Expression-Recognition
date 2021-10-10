@@ -4,5 +4,5 @@ In this project,  I had build and train a convolutional neural network (CNN) in 
 
 The project can be braodly divided into two parts -
 
-1.Build and train a model in Keras for Facial Expression Recognition.
+1.Build and train a model in Keras for Facial Expression Recognition.                                                                                                               
 2.Deploy the model on web using FLASK and run it on videos.
